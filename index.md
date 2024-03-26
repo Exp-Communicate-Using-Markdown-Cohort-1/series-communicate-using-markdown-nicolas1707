@@ -2,7 +2,17 @@
 
 ![Image of a cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNE5bSfdoXkzYIOwQ4ip0q8h9Qsehnsb70sg&usqp=CAU)
 
+```c
+int main(){
+
+int x = 5;
+
+while (x=5){
+  printf("legal");
+  }
+}
 ```
-$ git inicialização
-Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/.git/
-```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
