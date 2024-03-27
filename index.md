@@ -5,7 +5,7 @@
 ```c
 int main(){
 
-int x = 5;
+int y = 5;
 
 while (x=5){
   printf("legal");
